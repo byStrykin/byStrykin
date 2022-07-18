@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @byStrykin
 - 👀 I’m interested in making music (lofi, synthwave) and coding!
-- 🌱 I’m currently learning Python, Web.
+- 🌱 I’m currently learning Python, Web, Java.
 - 💞️ I’m looking to collaborate on {undefined}
 - 📫 How to reach me? I don't know...
 
